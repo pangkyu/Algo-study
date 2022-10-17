@@ -23,4 +23,4 @@ git commit -m "[BOJ] Hello World / 브론즈5/ 1분" -m "https://www.acmicpc.net
 
 | 주차 | 내용 |  
 |:---:|:---:| 
-| __1주차__ | 약수의 합, 소수 찾기 | 
+| __1주차__ | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928), [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921) | 
