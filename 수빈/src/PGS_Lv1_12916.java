@@ -20,7 +20,7 @@
  *
  * 푼 날짜 : 221020
  */
-public class PSG_Lv1_12916 {
+public class PGS_Lv1_12916 {
     static boolean solution(String s) {
         boolean answer = true;
 
