@@ -20,12 +20,7 @@ function solution(s) {
     if (s[i] === "Y" || s[i] === "y") {
       count_y++;
     }
-    // if(s[i] !== 'y' && s[i] !== 'Y' && s[i] !== 'p' && s[i] !== 'P'){
-    //     return true;
-    // }
   }
 
   return count_p === count_y ? true : false;
 }
-
-// 근데 왜 주석처리 된 부분이 테스트케이스에 추가해서 돌렸을때는 성공하는데 제출하기에 넣으면 에러나는지 모르겠다..
