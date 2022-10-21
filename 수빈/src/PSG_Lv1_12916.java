@@ -33,9 +33,9 @@ public class PSG_Lv1_12916 {
             else if (c == 'y') y++;
         }
 
-        if (p != y) return false;
-
-        return answer;
+//        if (p != y) return false;
+//        return answer;
+        return p == y;
     }
 
     public static void main(String[] args) {
