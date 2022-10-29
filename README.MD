@@ -25,3 +25,4 @@ git commit -m "[BOJ] Hello World / 브론즈5/ 1분" -m "https://www.acmicpc.net
 |:---:|:---:|:---:| 
 | __1주차__ | 10/17~20 | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928), [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921), [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389), [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)| 
 | __2주차__ | 10/21~25 |[소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977), [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644), [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934), [JadenCase](https://school.programmers.co.kr/learn/courses/30/lessons/12951)    |
+| __3주차__ | 10/26~31 | [우테코 온보딩](https://github.com/woowacourse-precourse/javascript-onboarding)
