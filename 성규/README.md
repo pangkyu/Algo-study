@@ -23,3 +23,4 @@
 
 1. [369만들기\_SWEA_D2](./4주차/369만들기/Hello/src/App.java)
 2. [지그재그숫자\_SWEA_D2](./4주차/지그재그숫자/Zigzag/src/App.java)
+3. [최빈수구하기\_SWEA_D2](./4주차/최빈수구하기/MostFrequent/src/App.java)
